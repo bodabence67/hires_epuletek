@@ -11,8 +11,8 @@ A második oszlop:
 
 A harmadik oszlop:
 
-<ul>
-	<li>Anyag: vasrácsos szerkezet</li>
+ul>
+<	<li>Anyag: vasrácsos szerkezet</li>
 	<li>Látogatók száma: évente több millió fő</li>
 	<li>Világörökségi státusz: nem önálló helyszín</li>
 	<li>Kiemelt jellemző: Párizs jelképe</li>
